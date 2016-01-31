@@ -1,0 +1,12 @@
+Metadata-Version: 1.1
+Name: log-analyzer
+Version: 1.2.1
+Summary: waibao
+Home-page: https://github.com/JASON0916/
+Author: cm
+Author-email: jason0916phoenix@gmail.com
+License: MIT
+Description: waibao
+Keywords: python log commandline
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 2.7

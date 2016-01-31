@@ -1,0 +1,14 @@
+setup.py
+analyzer/CommandManager.py
+analyzer/GrepLexer.py
+analyzer/__init__.py
+analyzer/client.py
+analyzer/completer.py
+analyzer/grep.py
+log_analyzer.egg-info/PKG-INFO
+log_analyzer.egg-info/SOURCES.txt
+log_analyzer.egg-info/dependency_links.txt
+log_analyzer.egg-info/entry_points.txt
+log_analyzer.egg-info/not-zip-safe
+log_analyzer.egg-info/requires.txt
+log_analyzer.egg-info/top_level.txt

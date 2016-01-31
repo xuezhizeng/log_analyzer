@@ -3,7 +3,7 @@
 ### 安装
 直接使用pip安装即可，安装完后会在系统内注册命令 log_analyzer 。
 ```
-pip install log_analyzer-1.2.1.tar.gz
+pip install dist/log_analyzer-1.2.1.tar.gz
 ```
 ### 卸载
 
@@ -12,7 +12,8 @@ pip uninstall log_analyzer
 ```
 ## 使用前
 
-请在运行命令行程序前在当前目录下配置 config.ini ，配置完后即可输入 log_analyzer 启动。
+请在运行命令行程序前在当前目录下配置 config.ini ，这样对于不同的日志格式可以分目录分配置解析，
+配置完后即可输入 log_analyzer 启动。
 
 ## 使用
 
